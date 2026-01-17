@@ -14,9 +14,6 @@ function AboutCard() {
             I’m currently a 3rd year {" "}
             <span className="purple">student</span> at{" "}
             <span className="purple">SKIT</span>.
-            {/* <br />I hold an Integrated M.Sc. (IMSc) in{" "}
-            <span className="purple">Mathematics and Computing</span> from{" "}
-            <span className="purple">BIT Mesra</span>. */}
             <br />
             <br />
             Outside of coding, I love engaging in activities that keep me
